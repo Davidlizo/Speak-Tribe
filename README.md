@@ -1,6 +1,6 @@
 # speak_tribe
 
-A new Flutter project.
+A Speak Spanish Pronouncation Learning Platform. 
 
 ## Getting Started
 
@@ -14,3 +14,6 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+My Appetizer Link
+https://appetize.io/app/b_6mjfsiktg5iep6j32kqo476qwm
