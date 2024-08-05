@@ -220,9 +220,9 @@ class UploadAudio extends StatelessWidget {
                                               textController.clear();
                                               controller.clearSelectedFile();
                                               Navigator.of(context)
-                                                  .pop(); // To Close the dialog
+                                                  .pop(); // Close the dialog
 
-                                              // To Show success Snackbar
+                                              // Show success Snackbar
                                               Get.snackbar(
                                                 'Success',
                                                 'Audio uploaded successfully!',

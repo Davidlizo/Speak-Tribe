@@ -36,7 +36,6 @@ class SpeakTribeScreen extends StatelessWidget {
             TabBar(
               labelColor: Colors.blue,
               indicatorColor: Colors.blue,
-              // physics: NeverScrollableScrollPhysics(),
               tabs: [
                 Tab(text: 'Numbers'),
                 Tab(text: 'Words'),

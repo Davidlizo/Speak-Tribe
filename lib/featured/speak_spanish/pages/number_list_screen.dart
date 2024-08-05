@@ -23,8 +23,11 @@ class NumberListScreen extends StatelessWidget {
 
       return GridView.builder(
         gridDelegate: const SliverGridDelegateWithFixedCrossAxisCount(
-          crossAxisCount: 2,
-        ),
+            crossAxisCount: 2,
+            childAspectRatio: 0.7,
+            mainAxisSpacing: 8,
+            crossAxisSpacing: 8,
+          ),
         shrinkWrap: true,
         physics: const BouncingScrollPhysics(),
         itemCount: controller.numbers.length,
